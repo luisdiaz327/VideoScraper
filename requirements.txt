@@ -1,5 +1,6 @@
 selenium>=4.15.2
 tqdm>=4.66.1
 requests>=2.31.0
+beautifulsoup4>=4.12.2
 webdriver-manager>=4.0.1
 yt-dlp
